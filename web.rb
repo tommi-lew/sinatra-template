@@ -1,4 +1,4 @@
-require_relative File.join('config', "shared.rb")
+require 'config/shared.rb'
 
 get '/' do
   'ok'

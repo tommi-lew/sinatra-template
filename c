@@ -1,1 +1,1 @@
-irb -I. -rweb.rb
+irb -r './config/shared.rb'
