@@ -1,0 +1,5 @@
+{
+  "name": "Sinatra Sample",
+  "description": "A Sinatra app",
+  "keywords": ["ruby", "sinatra"]
+}
